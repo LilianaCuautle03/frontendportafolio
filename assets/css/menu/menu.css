@@ -1,0 +1,14 @@
+.menu{
+    display: flex;
+    background-color: #d0c0d4;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+   
+}
+@media (max-width:425px) {
+    .menu{
+        padding: 0.5rem 1rem;
+    }
+    
+}
+
